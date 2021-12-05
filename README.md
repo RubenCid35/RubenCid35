@@ -4,9 +4,9 @@ I am Rubén Cid Costa. At the current time, I am an student 🌱 in the Univeesi
 
 ## LANGUAGE USED:
 
-  - Rust [RustIcon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frust%2Fissues%2F11562&psig=AOvVaw3mhUGCCu9IEuNjM7UhiqUP&ust=1638815390703000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjA5ZulzfQCFQAAAAAdAAAAABAO)(as a hobby).
-  - Python. (Main Focus in Data Science Libraries and Machine Learning)
-  - R. (Focus for NPL but I'm still learning how to use it)
+  - [RustIcon](https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg) Rust (as a hobby).
+  - [PythonIcon](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) Python.(Main Focus in Data Science Libraries and Machine Learning)
+  - [RIcon](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg) R. (Focus for NPL but I'm still learning how to use it)
 
 ## CURRENT PROJECTS:
   At the moment I am working in some projects that I will load when finished. 
