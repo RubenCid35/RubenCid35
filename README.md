@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rubén Cid Costa. At the current time, I am an student 🌱 in the Univeesidad Politécnica de Madrid while
+I am Rubén Cid Costa. At the current time, I am an student 🌱 in the Universidad Politécnica de Madrid.
 
 ## LANGUAGE USED💬:
 
