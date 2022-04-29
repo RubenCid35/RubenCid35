@@ -2,11 +2,11 @@
 
 I am Rubén Cid. At the current time, I am an student 🌱 in the Universidad Politécnica de Madrid.
 
-## LANGUAGE USED💬:
+## USED LANGUAGE 💬:
 
-  - Rust (as a hobby).
-  - Python.(Main Focus in Data Science Libraries and Machine Learning)
-  - R. (Focus for NPL but I'm still learning how to use it)
+  - Python.(Data Science && ML && Others)
+  - Rust
+  - R. (Focus for NPL)
 
 ## CURRENT PROJECTS  🔭:
   At the moment I am working in some projects that I will load when finished. 
