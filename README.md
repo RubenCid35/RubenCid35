@@ -8,8 +8,9 @@ I am Rubén Cid. At the current time, I am an student 🌱 in the Universidad Po
   - Rust
   - R. (Focus for NPL)
 
+## Prefered Technologies 
 ## CURRENT PROJECTS  🔭:
   At the moment I am working in some projects that I will load when finished. 
   
   - [:bug:] 
-<a href="https://github.com/RubenCid35/rossete-rdf" style="color: black; text-decoration-style: dotted;">**rosseta-rdf**</a>: It can be used to create an RDF File from various data files o databases with RML mappings. It gives control over the some aspects like number of used threads , read/write encoding and reading customization.  
+<a href="https://github.com/RubenCid35/rossete-rdf" style="color: black; text-decoration-style: dotted;">**rosseta-rdf**</a>: It can be used to create an RDF File from various data files o databases with RML mappings. It gives control over the some aspects like number of used threads , read/write encoding and reading customization.  It is minimalistic in exchange of speed. It is recommended for learning about RDF and low workload.
