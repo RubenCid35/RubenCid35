@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Rubén Cid. At the current time, I am a student 🌱 in the Universidad Politécnica de Madrid.
+I am Rubén Cid. At the current time, I am a master's student 🌱 in the Universidad Carlos III of Madrid.
 
 ## USED LANGUAGE 💬:
 
-  - Python.(Data Science && ML && Others)
+  - Python (Data Science && ML && Others)
   - Rust
   - R. (Focus for NPL and Data Science. Statistics)
 
